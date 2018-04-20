@@ -1,0 +1,3 @@
+Data Guide:
+1.SIRI-WHU dataset: https://pan.baidu.com/s/1wciRNclT2behlEeUZIm8xQ code£º3yfs
+2.AOI_1_Rio dataset is very large, we can't upload this dataset to Baiduyun, Please visit the website:  https://github.com/SpaceNetChallenge/SpaceNetChallenge.github.io

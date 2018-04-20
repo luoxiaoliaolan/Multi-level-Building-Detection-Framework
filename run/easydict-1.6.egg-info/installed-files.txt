@@ -1,0 +1,9 @@
+../easydict/__init__.py
+../easydict/__init__.pyc
+./
+not-zip-safe
+pbr.json
+top_level.txt
+PKG-INFO
+dependency_links.txt
+SOURCES.txt
